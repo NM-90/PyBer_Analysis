@@ -23,6 +23,7 @@ Three business recommendations regarding disparities among the city types.
 3.
     
 
+<img width="879" alt="City_challenge_line_graph" src="https://user-images.githubusercontent.com/111452227/195762494-43e53ea2-d9b8-4bb0-8ff6-57e4a3e672a1.png">
 
 
 
