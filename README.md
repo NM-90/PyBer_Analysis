@@ -11,8 +11,9 @@ Creating a multiple-line graph that shows the total weekly fares for each city t
 ## Results
 1. Description of the differences:
 
-2. Data includes the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. 
+2. Total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. 
 
+<img width="662" alt="Ride summary" src="https://user-images.githubusercontent.com/111452227/195755691-f53c5049-b0cf-461c-8849-0d4a7795830b.png">
 
 ## Summary
 Three business recommendations regarding disparities among the city types.
