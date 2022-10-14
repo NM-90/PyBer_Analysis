@@ -18,8 +18,8 @@ Creating a multiple-line graph that shows the total weekly fares for each city t
 ## Summary
 Three business recommendations regarding disparities among the city types.
 
-1.
-2.
+1. The average fare for urban drivers is significantly lower than the other two city types. 
+2. A rural customer has to pay the highest fare as it appears to be more competitive in the rural city. 
 3.
     
 
